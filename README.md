@@ -14,6 +14,17 @@ API : https://fakestoreapi.com/
   <li>🚀 Splash Screen and Animations</li>
   <li>Etc.</li>
 </ul>
+📸 Screenshots
+
+Here are some screenshots of the app:
+<div align="center">
+<img src="screenshots/screen1.jpg" width="300">  
+<img src="screenshots/screen2.jpg" width="300">  
+<img src="screenshots/screen3.jpg" width="300">  
+  <img src="screenshots/screen4.jpg" width="300">  
+  <img src="screenshots/screen5.jpg" width="300">  
+  <img src="screenshots/screen6.jpg" width="300">  
+</div>
 
 <h2>Technologies</h2>
 <ul>
