@@ -32,7 +32,7 @@ API : https://fakestoreapi.com/
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/vibe-store.git</code></pre>
+    <pre><code>git clone https://github.com/beknurospan/onlinestore.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Build and run the app on an emulator or physical device.</li>
